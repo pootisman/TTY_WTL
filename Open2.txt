@@ -1,6 +1,6 @@
 % Model:              open2_dd.mph
 % Version:            COMSOL 4.3.2.189
-% Date:               Feb 20 2014, 02:03
+% Date:               Feb 20 2014, 10:03
 % Table:              Probe Table 1 - 
 % d                      Electric energy density (J/m), Domain Probe 1Magnetic energy density (J/m), Domain Probe 2
 0.0010                   2.323521606070091E-12    1.926948497267924E-7
